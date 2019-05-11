@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body {
+    height: 100%;
+    width: 1000px;
+    margin-left: 300px;
+}
+
+/* hot news */
+.hot-news {
+    float: left;
+    width: 70%;
+}
+
+.hot-news span {
+    float: left;
+}
+
+/* search */
+.search {
+    float: right;
+    width: 30%;
+}
+
+.search a {
+    float: right;
+}
+
+/* content-left */
+.content-left {
+    float: left;
+    width: 70%;
+}
+
+/* content-right */
+.content-right {
+    float: right;
+    width: 30%;
+}
+
+/* news-left */
+.news-left {
+    float: left;
+    width: 70%;
+}
+
+/* news-right */
+.news-right {
+    float: right;
+    width: 30%;
+}
+
+/* content-bottom-left */
+.content-bottom-left {
+    float: left;
+    width: 50%;
+}
+
+/* content-bottom-right */
+.content-bottom-right {
+    float: right;
+    width: 50%;
+}
