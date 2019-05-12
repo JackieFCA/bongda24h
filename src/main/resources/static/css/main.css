@@ -6,6 +6,36 @@ body {
     margin-left: 300px;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+footer {
+    display: inline-block;
+}
+
+/* menu */
+.menu {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+/* logo */
+.logo a {
+    width: 75px;
+    height: 70px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.logo a img {
+    width: 39px;
+    height: 39px;
+    display: inline-block;
+}
+
 /* hot news */
 .hot-news {
     float: left;
@@ -14,6 +44,9 @@ body {
 
 .hot-news span {
     float: left;
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: red;
 }
 
 /* search */
